@@ -1,0 +1,10 @@
+{
+    "site_name": "true",
+    "maintenance": 1,
+    "age":30,
+    "meta" : {
+        "description" : "lorem ipsum"
+    }
+    
+  }
+  
